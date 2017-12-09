@@ -149,7 +149,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-shade-plugin</artifactId>
-				<version>3.1.0</version>
+				<version>2.3</version>
 				<executions>
 					<!-- hivemall-xgboost_xx-xx.jar -->
 					<execution>
